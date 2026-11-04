@@ -8,7 +8,7 @@ I design and deliver practical software solutions that replace repetitive manual
 
 ## Selected projects
 
-### 1. Global Training Operations and Fulfillment Automation
+### 1. IBM — Global Training Operations and Fulfillment Automation
 
 **Challenge.** Instructor-led training required coordination of classes, worldwide instructor availability, enrollments, and fulfillment activities as program volume increased.
 
@@ -18,7 +18,7 @@ I design and deliver practical software solutions that replace repetitive manual
 
 **Capabilities demonstrated:** Workflow and scheduling design, database applications, system integrations, notifications, requirements analysis.
 
-### 2. Enterprise Records and eDiscovery Process Automation
+### 2. Lennar — Enterprise Records and eDiscovery Process Automation
 
 **Challenge.** Locating and processing enterprise records for eDiscovery requests involved substantial manual effort.
 
@@ -28,7 +28,7 @@ I design and deliver practical software solutions that replace repetitive manual
 
 **Capabilities demonstrated:** Process analysis, enterprise application development, information-retrieval workflows, efficiency improvements.
 
-### 3. Construction Vendor Progress Report Automation
+### 3. Lennar — Construction Vendor Progress Report Automation
 
 **Challenge.** Vendors submitted construction completion and progress reports by email. Teams needed reports filed in the correct project locations without repetitive manual sorting.
 
@@ -48,6 +48,6 @@ I design and deliver practical software solutions that replace repetitive manual
 
 ## About the project examples
 
-These are high-level professional case studies of work completed for previous employers. Employer names and internal business figures have been omitted. Proprietary source code, internal documents, credentials, and records are not included. The descriptions demonstrate business problems, solutions, and outcomes rather than providing public code repositories for employer-owned systems.
+These are high-level professional case studies of work completed for previous employers. Employer names identify where the work was completed; internal business figures have been omitted. Proprietary source code, internal documents, credentials, and records are not included. The descriptions demonstrate business problems, solutions, and outcomes rather than providing public code repositories for employer-owned systems.
 
 **Contact:** [lystraw813@gmail.com](mailto:lystraw813@gmail.com)
